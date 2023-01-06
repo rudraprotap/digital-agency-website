@@ -1,0 +1,73 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    background-color: grey;
+    margin bottom:0px ;
+}
+.lists{
+    list-style: none;
+}
+.total-des{
+    display: flex;
+    justify-content: space-around;
+}
+
+.s-des{
+    display: flex;
+}
+.lists{
+    display: flex;
+    font-size: 22px;
+    padding: 5px;
+    font-weight: bold;
+    color: white;
+    margin-top: 10px;
+    
+}
+.p{
+    margin-left: 15px;
+}
+.logo{
+    margin-top: 10px;
+}
+.head{
+text-align: center;   
+font-size: 80px;
+margin-top: 120px;
+    
+}
+.head-des{
+    
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.dig{
+    color: crimson;
+}
+.btns{
+    text-align: center;
+    pa
+}
+.disc{
+   background-color: crimson;
+   padding:10px 32px ;
+   color:white;
+   border-radius: 5%;
+   border: none;
+
+   
+}
+.hire{
+   margin-left: 30px;
+   padding:10px 32px ;
+   border-radius: 5%;
+   border: none;
+}
+.bg-img{
+    background-image: url('./background.jpg');
+    margin: 0px;
+    padding: 0px;
+}
